@@ -1,0 +1,47 @@
+[
+  {
+    "Surname": "Мельник",
+    "Name": "Максим",
+    "PhoneNumber": "0988678545",
+    "Email": "makspufi@gmail.com",
+    "Login": "maxym",
+    "Password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+    "IsAdministrator": true
+  },
+  {
+    "Surname": "Дмитренко",
+    "Name": "Віктор",
+    "PhoneNumber": "0678456374",
+    "Email": "viktor@icloud.com",
+    "Login": "dmutro",
+    "Password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+    "IsAdministrator": false
+  },
+  {
+    "Surname": "Гончар",
+    "Name": "Олена",
+    "PhoneNumber": "0935672345",
+    "Email": "olena@gmail.com",
+    "Login": "olena",
+    "Password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+    "IsAdministrator": true
+  },
+  {
+    "Surname": "Донець",
+    "Name": "Віталій",
+    "PhoneNumber": "0632478920",
+    "Email": "vitalik@gmail.com",
+    "Login": "vitalik",
+    "Password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+    "IsAdministrator": false
+  },
+  {
+    "Surname": "Рябченко",
+    "Name": "Галина",
+    "PhoneNumber": "0931234563",
+    "Email": "galuna@gmail.com",
+    "Login": "galuna",
+    "Password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+    "IsAdministrator": false
+  }
+]

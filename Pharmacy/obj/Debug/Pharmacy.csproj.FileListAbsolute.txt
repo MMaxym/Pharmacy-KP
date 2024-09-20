@@ -1,0 +1,375 @@
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+D:\HPK\3_KURS\KURSOVA\PHARMACY\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy - 14-04-2024\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form8.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form9.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Irony.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\XLParser.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Irony.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\XLParser.dll
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form8.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form9.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\_Nastia\3_kyrs_HPK\максим аптека\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Irony.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\XLParser.dll
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form8.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form9.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\HPK\KURSOVA\KURSOVA\Pharmacy All\Pharmacy\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Irony.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\XLParser.dll
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form8.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form9.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\_Nastia\3_kyrs_HPK\КУРСОВА\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.xml
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form8.resources
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form9.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BouncyCastle.Crypto.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Irony.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\XLParser.dll
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\BCrypt.Net.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ClosedXML.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\ExcelNumberFormat.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.pdb
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\HtmlAgilityPack.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\itextsharp.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\Newtonsoft.Json.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\SixLabors.Fonts.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Buffers.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Collections.Immutable.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.IO.Packaging.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Memory.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Numerics.Vectors.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Reflection.Metadata.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form3.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form4.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form5.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form6.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form7.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form8.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form9.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CopyComplete
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Maxym\Pharmacy No SetUp\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\HPK\KURSOVA\KURSOVA\Pharmacy\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.Fody.CopyLocal.cache
